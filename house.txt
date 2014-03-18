@@ -1,0 +1,12 @@
+Stair carpet: Clean and dry 
+Hall carpet: Clean and dry
+Kitchen sink: dripping tap
+Left wall: Corn Silk 5th coat
+Right wall: Blue mist 4th coat
+Ceiling: Summer blue 2nd coat
+bathroom shower: dripping
+Living room light: broken
+_____
+Added frm windows
+Front window: broken
+back window: cracked
